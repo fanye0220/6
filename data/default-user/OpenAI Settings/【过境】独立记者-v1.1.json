@@ -742,10 +742,11 @@
             "injection_depth": 4,
             "injection_order": 100,
             "role": "system",
-            "content": "## 【字数要求】\n### <content>中的正文字数必须为1201-1601字。",
+            "content": "## 【字数要求】\n### <content>中的正文字数必须为1001-1301字。",
             "system_prompt": false,
             "marker": false,
-            "forbid_overrides": false
+            "forbid_overrides": false,
+            "injection_trigger": []
         },
         {
             "identifier": "ddd39af4-0b9f-4375-a4cb-c2b07d03c1f3",

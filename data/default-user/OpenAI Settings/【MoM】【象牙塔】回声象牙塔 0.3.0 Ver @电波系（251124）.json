@@ -32,7 +32,7 @@
     "custom_exclude_body": "",
     "custom_include_headers": "",
     "custom_prompt_post_processing": "strict",
-    "google_model": "gemini-3-pro-preview",
+    "google_model": "gemini-2.5-pro",
     "vertexai_model": "gemini-2.0-flash-001",
     "nanogpt_model": "gpt-4o-mini",
     "deepseek_model": "deepseek-chat",
@@ -2788,7 +2788,7 @@
                 },
                 {
                     "identifier": "f766bced-2ce1-49f8-aa2c-9bb118134f6b",
-                    "enabled": false
+                    "enabled": true
                 },
                 {
                     "identifier": "43d3c90d-1c65-4d83-adfb-ef7992c1ecfe",
@@ -2800,7 +2800,7 @@
                 },
                 {
                     "identifier": "496d7b71-f1aa-4512-b0ea-1ba5e76476b2",
-                    "enabled": true
+                    "enabled": false
                 },
                 {
                     "identifier": "37218a8f-5e62-4a38-90d3-7cbda522d433",
